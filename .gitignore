@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models & data (large files)
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+fruits_model/
+checkpoints/
+data/
+fruits-360/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
